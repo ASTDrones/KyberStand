@@ -22,6 +22,18 @@ It uses a D1 Mini and 32 WS2812B LEDs to bring each crystal to life with individ
   - Segment layout
   - LED count (32)
   - Preset behavior and brightness settings
+ 
+ ---
+
+## 📥 Download WLED Files
+
+Quick links to download the preset and config files directly:
+
+- 🔧 [Download `wled_KyberStand_presets.json`](https://raw.githubusercontent.com/ASTDrones/KyberStand/main/wled_KyberStand_presets.json)
+- ⚙️ [Download `wled_D1Mini_KyberStand_Config.json`](https://raw.githubusercontent.com/ASTDrones/KyberStand/main/wled_D1Mini_KyberStand_Config.json)
+
+> 💡 Tip: If your browser opens the file as text, right-click the link and choose **“Save link as…”** to download it instead.
+   
 
 ---
 
